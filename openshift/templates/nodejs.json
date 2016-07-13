@@ -89,6 +89,8 @@
               {
                   "name": "NPM_MIRROR",
                   "value": "${NPM_MIRROR}"
+                  "name": "HTTP_PROXY"
+                  "value": "http://fedora:fedora123@10.70.49.109:3128/"
               }
             ]
           }
